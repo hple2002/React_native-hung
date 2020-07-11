@@ -14,9 +14,7 @@ import { connect } from 'react-redux';
 import { fetchCampsites, fetchComments, fetchPromotions,
     fetchPartners } from '../redux/ActionCreators';
 
-
-
-
+    
 const mapDispatchToProps = {
     fetchCampsites,
     fetchComments,
