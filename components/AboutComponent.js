@@ -12,7 +12,7 @@ const mapStateToProps = state => {
 };
 
 
-function Mission() {
+function Mission () {
     return (
         <Card title='Our Mission'>
             <Text style={{margin: 10}}>
